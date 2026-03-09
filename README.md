@@ -38,7 +38,7 @@
 ---
 
 ## 🌟 **Highlighted Projects**
-### 🧠 DocuSynthAI AI-Powered Legal Document Summarization & Risk Assessment
+### 🧠 DocuSynthAI AI-Powered Legal Document Summarization & Risk Prediction System
 - 📄 Built an end-to-end legal doc analyzer using **LLMs + RAG** with **GDPR/HIPAA compliance**.
 - ⚡ Integrated **FAISS** for lightning-fast retrieval, reducing review time by **40%**.
 - 📸 Won **HackIndia** Spark9 hackthon with 1st prize 
