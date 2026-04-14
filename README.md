@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 > **Frontend Languages & Frameworks**
 ![HTML](https://img.shields.io/badge/HTML-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
