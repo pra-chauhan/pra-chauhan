@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&size=32&center=true&vCenter=true&width=650&height=60&lines=Hey,+I'm+Pragya+Chauhan!;🚀Welcome+to+My+GitHub+Profile!" />
 </h1>
 
-<p align="center">
-  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="600" />
-</p>
+
 
 ---
 
@@ -29,11 +27,7 @@
 
 ---
 
-## 🏆 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pra-chauhan&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pra-chauhan&theme=radical" height="180px"/>
-</p>
+
 
 ---
 
