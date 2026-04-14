@@ -14,16 +14,29 @@
 ---
 
 ## ⚡ **Technical Skills**
-> **Languages & Tools**  
+> **Languages**
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![MERN](https://img.shields.io/badge/MERN-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+> **Frontend Languages & Frameworks**
+![HTML](https://img.shields.io/badge/HTML-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![React](https://img.shields.io/badge/React-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+> **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 > **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+> **Development**
+![MERN](https://img.shields.io/badge/MERN-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+
+
 
 ---
 
