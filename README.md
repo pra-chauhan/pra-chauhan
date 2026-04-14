@@ -8,7 +8,7 @@
 
 ## 📌 **About Me**
 🚀 **Kotlin Developer | MERN Stack Developer | AI Enthusiast**  
-💡 Passionate about **App Development, Machine Learning, AI, and MERN Stack Development**  
+💡 Passionate about **App Development, Machine Learning, AI, and Full Stack Development**  
 📊 Love solving **Competitive Programming** problems  
 
 ---
@@ -21,13 +21,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 > **Frontend Languages & Frameworks**
-![HTML](https://img.shields.io/badge/HTML-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![React](https://img.shields.io/badge/React-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23FF6F00.svg?style=for-the-badge&logo=HTML&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23FF6F00.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![React](https://img.shields.io/badge/React-%23FF6F00.svg?style=for-the-badge&logo=React&logoColor=white)
 
 > **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23FF6F00.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23FF6F00.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 > **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -35,7 +35,7 @@
 
 > **Development**
 ![MERN](https://img.shields.io/badge/MERN-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23D00000.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 
@@ -51,6 +51,10 @@
 ### 🧴 AI Crop Recommendation System
 - 📸 Help identify most suitable crop using **Soil input**, ** weather condtion** and **location**.
 - 🌐 Web interface built with **MERN Stack**.
+
+### 📜 DocuSynth AI
+- AI-driven legal document summarizer and risk prediction system.
+- Make civilians aware and their work easy to know about their legal documents.
 
 
 ---
